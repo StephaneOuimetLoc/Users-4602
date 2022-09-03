@@ -1,7 +1,3 @@
-q1111111
-q1111111
-q1111111
-q1111111
 unit FrmUtils;
 
 interface
