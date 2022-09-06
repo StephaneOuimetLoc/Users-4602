@@ -1,13 +1,7 @@
 [Patate]
 
 Je suis modifie 1
-
-
-
-q1111111
-q1111111
-q1111111
-q1111111
+444444444444
 unit FrmUtils;
 
 interface
