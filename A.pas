@@ -1,4 +1,3 @@
-[Patate]
 unit FrmUtils;
 
 interface
