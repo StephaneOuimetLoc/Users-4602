@@ -1,13 +1,5 @@
 [Patate]
-
-
-
-
-
-q1111111
-q1111111
-q1111111
-q1111111
+000000000000000000
 unit FrmUtils;
 TEST-1
 interface
